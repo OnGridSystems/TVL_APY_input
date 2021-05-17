@@ -1,4 +1,32 @@
 {
-    "tvl": "11800.90",
-    "apy": "120"
+    "lp_pools" : [
+        {
+            "id": "0",
+            "symbol": "WBNB-BUSD LP",
+            "address": "0x9820C0522ca270dC05540F7d2dc9D2ff0f4986bD",
+            "tvl": "11800.60",
+            "apy": "120"
+        },
+        {
+            "id": "1",
+            "symbol": "USDT-BUSD LP",
+            "address": "0x7D27A602e8F75Bd7a3f4c50f1EB7A4225f6E47f1",
+            "tvl": "10700.95",
+            "apy": "130"
+        },        
+        {
+            "id": "2",
+            "symbol": "BTCB-WBNB LP",
+            "address": "0xc32010259E020Bf552e6640adcCb49Fe6F039b66",
+            "tvl": "9655.89",
+            "apy": "140"
+        },        
+        {
+            "id": "3",
+            "symbol": "ETH-WBNB LP",
+            "address": "0x65d5DD364af2B8793078d6746041336923e89C1c",
+            "tvl": "7894.98",
+            "apy": "150"
+        }
+    ]
 }

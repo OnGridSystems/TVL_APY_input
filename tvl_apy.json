@@ -5,28 +5,56 @@
             "symbol": "WBNB-BUSD LP",
             "address": "0x9820C0522ca270dC05540F7d2dc9D2ff0f4986bD",
             "tvl": "65020.22",
-            "apy": "43.81"
+            "apy": "43.81",
+            "esmRewardPerYearPerToken": "12345.0"
         },
         {
             "id": "1",
             "symbol": "USDT-BUSD LP",
             "address": "0x7D27A602e8F75Bd7a3f4c50f1EB7A4225f6E47f1",
             "tvl": "124300.00",
-            "apy": "21.235"
+            "apy": "21.235",
+            "esmRewardPerYearPerToken": "12345.0"
         },        
         {
             "id": "2",
             "symbol": "BTCB-WBNB LP",
             "address": "0xc32010259E020Bf552e6640adcCb49Fe6F039b66",
             "tvl": "35980.90",
-            "apy": "85.50"
+            "apy": "85.50",
+            "esmRewardPerYearPerToken": "12345.0"
         },        
         {
             "id": "3",
             "symbol": "ETH-WBNB LP",
             "address": "0x65d5DD364af2B8793078d6746041336923e89C1c",
             "tvl": "101000.73",
-            "apy": "56.09"
+            "apy": "56.09",
+            "esmRewardPerYearPerToken": "12345.0"
+        },
+        {
+            "id": "5",
+            "symbol": "WBNB-ESG LP",
+            "address": "0x58E19265009FbCB74A7B47d06109A809E3998535",
+            "tvl": "101000.73",
+            "apy": "56.09",
+            "esmRewardPerYearPerToken": "12345.0"
+        },
+        {
+            "id": "6",
+            "symbol": "ESM-WBNB LP",
+            "address": "0x18844437670F62b82E3689947465390091d61ED5",
+            "tvl": "101000.73",
+            "apy": "56.09",
+            "esmRewardPerYearPerToken": "12345.0"
+        },
+        {
+            "id": "8",
+            "symbol": "ESM-ESG LP",
+            "address": "0x017fBB0D986086B8F09929BCDbe551B8f2F66651",
+            "tvl": "101000.73",
+            "apy": "56.09",
+            "esmRewardPerYearPerToken": "12345.0"
         }
     ]
 }
